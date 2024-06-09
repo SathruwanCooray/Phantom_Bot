@@ -2,9 +2,12 @@
   <img src="https://imgur.com/QoBZj2v.png" alt="Phantom Logo" width="200" height="200" />
 </p>
 
-# Phantom Discord Bot [Update 0.1]
+# Phantom Discord Bot [Simple Bot]
 
 Phantom is an upcoming powerful and versatile Discord bot designed to enhance your server's fun experiences. It currently offers games with future features and utilities to improve user experience.
+
+
+https://github.com/SathruwanCooray/Phantom_Discord_Bot/assets/150252729/787d38a7-4b3e-4f14-bacd-6395305f9fec
 
 ## Features
 
@@ -15,6 +18,7 @@ Phantom is an upcoming powerful and versatile Discord bot designed to enhance yo
 ## Commands
 
 - `!XOX [user]`: Start XOX game with the mentioned user.
+- `!end`: End the game in the created channel.
 
 # License
 
